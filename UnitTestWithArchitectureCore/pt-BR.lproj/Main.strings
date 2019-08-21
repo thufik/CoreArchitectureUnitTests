@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; accessibilityHint = "Campo de e-mail"; ObjectID = "4MS-Ig-PVd"; */
+"4MS-Ig-PVd.accessibilityHint" = "Campo de e-mail";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4MS-Ig-PVd"; */
+"4MS-Ig-PVd.placeholder" = "Email";
+
+/* Class = "UITextField"; accessibilityHint = "Campo de senha"; ObjectID = "BiO-mf-9HC"; */
+"BiO-mf-9HC.accessibilityHint" = "Campo de senha";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "BiO-mf-9HC"; */
+"BiO-mf-9HC.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Entrar"; ObjectID = "Htl-qV-vqK"; */
+"Htl-qV-vqK.normalTitle" = "Entrar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LXh-ea-nbH"; */
+"LXh-ea-nbH.text" = "Bem-vindo";

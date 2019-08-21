@@ -1,0 +1,11 @@
+/* 
+  LocalizableStrings.strings
+  UnitTestWithArchitectureCore
+
+  Created by EquipeSuporteAplicacao on 5/29/18.
+  Copyright © 2018 Thufik. All rights reserved.
+*/
+
+"error.empty.mail.pass" = "E-mail ou senha vazios";
+"error.invalid.credentials" = "Credenciais inválidas";
+"error.unknown" = "Erro desconhecido";

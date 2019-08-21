@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.6.0)
+  - CoreArchitecture (0.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CoreArchitecture
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CoreArchitecture
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  CoreArchitecture: 28cdaf21c98021a86e411aac58f9a4f3c3e94108
+
+PODFILE CHECKSUM: 19afeb8315c13f679c35fce0a08ae90bc8210da7
+
+COCOAPODS: 1.5.2
